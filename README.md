@@ -12,7 +12,7 @@ Built as a portfolio project using Python, scikit-learn, and Streamlit — compl
   - Headlines only
   - Noisy, typo-filled social-media-style headlines
 - 💬 Tested custom headlines live
-- 🌐 Created an interactive **Streamlit web app** where users can paste headlines and get real-time predictions with confidence scores
+- 🌐 Created an interactive **Streamlit web app** https://realvsfakenews-6nylgm7gkpfb3vcucjkuck.streamlit.app/  where users can paste headlines and get real-time predictions with confidence scores
 
 
 ## 📁 Dataset
